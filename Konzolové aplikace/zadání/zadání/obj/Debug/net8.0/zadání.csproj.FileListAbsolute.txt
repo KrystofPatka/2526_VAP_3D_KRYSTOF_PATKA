@@ -1,0 +1,15 @@
+R:\VAP - C#\zadání\zadání\bin\Debug\net8.0\zadání.exe
+R:\VAP - C#\zadání\zadání\bin\Debug\net8.0\zadání.deps.json
+R:\VAP - C#\zadání\zadání\bin\Debug\net8.0\zadání.runtimeconfig.json
+R:\VAP - C#\zadání\zadání\bin\Debug\net8.0\zadání.dll
+R:\VAP - C#\zadání\zadání\bin\Debug\net8.0\zadání.pdb
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.AssemblyInfoInputs.cache
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.AssemblyInfo.cs
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.csproj.CoreCompileInputs.cache
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.sourcelink.json
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.dll
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\refint\zadání.dll
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.pdb
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\zadání.genruntimeconfig.cache
+R:\VAP - C#\zadání\zadání\obj\Debug\net8.0\ref\zadání.dll
