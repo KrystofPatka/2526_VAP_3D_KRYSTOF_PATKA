@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zadani_15.1.": {
+      "commandName": "Project",
+      "commandLineArgs": "znamky.txt vysledek.txt\r\n"
+    }
+  }
+}

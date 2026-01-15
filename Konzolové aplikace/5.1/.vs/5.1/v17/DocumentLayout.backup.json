@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CCDDFF-AFDF-4F51-BB5D-62D38EDA2B2A}|5.1\\5.1..csproj|r:\\vap - c#\\konzolov\u00E9 aplikace\\5.1\\5.1\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CCDDFF-AFDF-4F51-BB5D-62D38EDA2B2A}|5.1\\5.1..csproj|solutionrelative:5.1\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CCDDFF-AFDF-4F51-BB5D-62D38EDA2B2A}|5.1\\5.1..csproj|r:\\vap - c#\\konzolov\u00E9 aplikace\\5.1\\5.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CCDDFF-AFDF-4F51-BB5D-62D38EDA2B2A}|5.1\\5.1..csproj|solutionrelative:5.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\5.1\\5.1\\MyTask.cs",
+              "RelativeDocumentMoniker": "5.1\\MyTask.cs",
+              "ToolTip": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\5.1\\5.1\\MyTask.cs*",
+              "RelativeToolTip": "5.1\\MyTask.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:24:39.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\5.1\\5.1\\Program.cs",
+              "RelativeDocumentMoniker": "5.1\\Program.cs",
+              "ToolTip": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\5.1\\5.1\\Program.cs",
+              "RelativeToolTip": "5.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:58:52.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

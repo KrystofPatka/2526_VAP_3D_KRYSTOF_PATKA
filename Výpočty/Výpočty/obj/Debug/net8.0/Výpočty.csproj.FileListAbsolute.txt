@@ -1,0 +1,15 @@
+R:\VAP - C#\Výpočty\Výpočty\bin\Debug\net8.0\Výpočty.exe
+R:\VAP - C#\Výpočty\Výpočty\bin\Debug\net8.0\Výpočty.deps.json
+R:\VAP - C#\Výpočty\Výpočty\bin\Debug\net8.0\Výpočty.runtimeconfig.json
+R:\VAP - C#\Výpočty\Výpočty\bin\Debug\net8.0\Výpočty.dll
+R:\VAP - C#\Výpočty\Výpočty\bin\Debug\net8.0\Výpočty.pdb
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.AssemblyInfoInputs.cache
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.AssemblyInfo.cs
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.csproj.CoreCompileInputs.cache
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.sourcelink.json
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.dll
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\refint\Výpočty.dll
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.pdb
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\Výpočty.genruntimeconfig.cache
+R:\VAP - C#\Výpočty\Výpočty\obj\Debug\net8.0\ref\Výpočty.dll

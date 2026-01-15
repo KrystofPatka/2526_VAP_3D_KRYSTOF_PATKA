@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\kolekce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA8EB2E-DE61-4C3E-8BB2-93B58136B1CA}|kolekce\\kolekce.csproj|r:\\vap - c#\\konzolov\u00E9 aplikace\\kolekce\\kolekce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA8EB2E-DE61-4C3E-8BB2-93B58136B1CA}|kolekce\\kolekce.csproj|solutionrelative:kolekce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\kolekce\\kolekce\\Program.cs",
+              "RelativeDocumentMoniker": "kolekce\\Program.cs",
+              "ToolTip": "R:\\VAP - C#\\Konzolov\u00E9 aplikace\\kolekce\\kolekce\\Program.cs",
+              "RelativeToolTip": "kolekce\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:59:17.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
