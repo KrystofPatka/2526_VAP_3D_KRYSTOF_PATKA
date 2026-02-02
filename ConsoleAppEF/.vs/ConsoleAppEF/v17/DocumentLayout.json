@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\VAP - C#\\ConsoleAppEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|r:\\vap - c#\\consoleappef\\consoleappef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|solutionrelative:consoleappef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|r:\\vap - c#\\consoleappef\\consoleappef\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|solutionrelative:consoleappef\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|r:\\vap - c#\\consoleappef\\consoleappef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|solutionrelative:consoleappef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|r:\\vap - c#\\consoleappef\\consoleappef\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B87C85-F90F-4BA7-82F6-41A0F3A020AA}|ConsoleAppEF\\ConsoleAppEF.csproj|solutionrelative:consoleappef\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLiteDBContext.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\SQLiteDBContext.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEF\\SQLiteDBContext.cs",
+              "ToolTip": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\SQLiteDBContext.cs",
+              "RelativeToolTip": "ConsoleAppEF\\SQLiteDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:19:28.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEF\\Player.cs",
+              "ToolTip": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\Player.cs",
+              "RelativeToolTip": "ConsoleAppEF\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:18:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\game.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEF\\game.cs",
+              "ToolTip": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\game.cs",
+              "RelativeToolTip": "ConsoleAppEF\\game.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwJcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:06:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppEF\\Program.cs",
+              "ToolTip": "R:\\VAP - C#\\ConsoleAppEF\\ConsoleAppEF\\Program.cs",
+              "RelativeToolTip": "ConsoleAppEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:01:58.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

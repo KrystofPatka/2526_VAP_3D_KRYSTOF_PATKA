@@ -1,0 +1,16 @@
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\bin\Debug\net8.0\ConsoleAppEF.exe
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\bin\Debug\net8.0\ConsoleAppEF.deps.json
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\bin\Debug\net8.0\ConsoleAppEF.runtimeconfig.json
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\bin\Debug\net8.0\ConsoleAppEF.dll
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\bin\Debug\net8.0\ConsoleAppEF.pdb
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.AssemblyInfoInputs.cache
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.AssemblyInfo.cs
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.csproj.CoreCompileInputs.cache
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.sourcelink.json
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.dll
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\refint\ConsoleAppEF.dll
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.pdb
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.genruntimeconfig.cache
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ref\ConsoleAppEF.dll
+R:\VAP - C#\ConsoleAppEF\ConsoleAppEF\obj\Debug\net8.0\ConsoleAppEF.csproj.AssemblyReference.cache
